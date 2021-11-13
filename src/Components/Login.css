@@ -1,0 +1,79 @@
+
+.form-inner{
+  width: 500px;
+  background-color: rgb(248, 233, 204);
+  margin:auto;
+  margin-top:50px;
+  border-radius: 5px;
+}
+.ui-main h2 {
+  padding-top: 40px;
+  margin-bottom: 20px;
+  color: orangered;
+  text-align: center;
+}
+.form-group{
+  margin: auto;
+}
+.ui-form {
+  width: 500px;
+  margin: auto;
+  border: 1.5px solid orangered;
+  height: 350px;
+  background-color: whitesmoke;
+  border-radius: 8px;
+}
+.Email, .Password {
+  margin-top: 25px;
+  padding-left: 35px;
+}
+
+
+input[type="email"],
+[type="password"] {
+  margin: 15px;
+  padding:8px;
+  width: 65%;
+  margin-left:15px;
+  font-size: 14px;
+  border-top: whitesmoke;
+  border-left:whitesmoke;
+  border-right:whitesmoke;
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+label{
+  margin-left: 20px;
+  font-size: 18px;
+  font-weight: bolder;
+  color: orangered;
+  text-transform: uppercase;
+}
+.SubmitLogin {
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 18px;
+  /* margin-left:80px; */
+  padding:7px;
+background-color: orangered;  color: aliceblue;
+  margin-left:250px;
+  border-radius: 5px;
+}
+.signUp p {
+  margin-top: 10px;
+  font-weight: bold;
+  /* margin-left: 10px; */
+}
+.signup{
+  color: orangered;
+  font-weight: bold;
+  font-size:medium;
+  margin-right:400px;
+}
+.signup:hover{
+  cursor: pointer;
+}
+.lowerLogin{
+ margin-left:30px;
+ padding-bottom: 10px;
+}

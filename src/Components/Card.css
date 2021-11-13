@@ -1,0 +1,31 @@
+.productImg{
+    width: 170px;
+    height:200px;
+    object-fit: contain;
+    margin-left:25px;
+}
+
+.productName{
+    text-align:center;
+}
+.productPrice{
+    text-align: center;
+
+}
+.card{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 220px;
+    margin: 10px;
+    height:fit-content;
+
+}
+.heart-icon{
+    max-width: 20%;
+    max-height: 20px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+}
+.heart-icon:hover{
+    cursor: pointer;
+}

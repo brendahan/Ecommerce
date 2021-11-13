@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.sidebar ul{
+    display: flex;
+    margin-top: 40px;
+    margin-bottom:40px;
+   
+}
+.sidebar ul li{
+    color:white;
+
+}
+.body{
+    margin-left:500px;
+}
